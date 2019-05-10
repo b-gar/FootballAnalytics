@@ -1,4 +1,4 @@
-# FootballAnalytics
+# Football Analytics
 Projects Completed on Football Analytics
 
 # Source: http://stats.ncaa.org/rankings/change_sport_year_div #
